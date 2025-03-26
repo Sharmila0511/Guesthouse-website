@@ -15,3 +15,12 @@ Technologies Used
 
   HTML – Structuring the web pages.  
   CSS – Styling and layout design.
+
+  Live Demo
+
+(https://sharmila0511.github.io/Guesthouse-website/Room.html).
+
+License
+
+This project is for learning purposes. Feel free to use and modify it.
+
